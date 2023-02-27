@@ -1,0 +1,5 @@
+read  -p"enter  the num"a
+read  -p"enter the num "b
+do $a gre  $b
+then
+echo $ a is greter than $b
